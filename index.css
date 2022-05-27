@@ -1,3 +1,9 @@
 h1 {color:rgb(90, 40, 136)}
 p {color:rgb(87, 2, 2)}
-button {color:blue}
+#clickerbutton{
+    color:blue;
+}
+
+#resetnum{
+    color:red;
+}
